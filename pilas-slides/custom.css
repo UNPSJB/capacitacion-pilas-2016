@@ -1,0 +1,9 @@
+/*.cell.text_cell { display: inline-block; }
+.cell p img { width: 100%; }
+*/
+div.text_cell_render { /* Customize text cells */
+font-size:1.5em;
+line-height:1.4em;
+padding-left:3em;
+padding-right:3em;
+}
